@@ -1,0 +1,9 @@
+			Nitraat	Nitriet NO2-
+			mg/L	mg/L
+Stadsstrand		10	0
+Vissteiger		0-10	0
+Waterspeelplaats	10	1
+Wetsus			0-10	0-1
+Elsenbroekbosje		0-10	0
+Regenwatersloot		10	0
+Rand binnenstad		10	1
